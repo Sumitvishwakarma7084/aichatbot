@@ -1,6 +1,6 @@
 fastapi
+gunicorn
 uvicorn
+jinja2
 python-dotenv
 google-generativeai
-jinja2
-gunicorn
